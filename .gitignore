@@ -3,6 +3,7 @@ venv
 *.pyc
 __pycache__
 
+<<<<<<< HEAD
 ### VisualStudioCode ###
 .vscode/*
 .vscode/**
@@ -14,3 +15,5 @@ __pycache__
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+=======
+>>>>>>> d4d159d1d6a7ad37da45a90ca4cdd2da6fef848c
